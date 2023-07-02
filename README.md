@@ -1,3 +1,9 @@
+## Collab Notebook
+
+Demo: https://colab.research.google.com/drive/1Ha8UNpOwx87BrGCgtlZmO09tjnwkRv3N
+
+## Overview
+
 The paper "Attention Is All You Need" introduces the Transformer model, a neural network architecture based entirely on attention mechanisms. The authors propose the Transformer as a replacement for recurrent neural networks (RNNs) and convolutional neural networks (CNNs) in sequence transduction tasks, such as machine translation.
 
 The Transformer model utilizes self-attention mechanisms to capture global dependencies between words in a sentence. This allows the model to attend to different parts of the input sequence when generating the output. The self-attention mechanism computes attention weights for each word based on its relationship with other words in the sequence, enabling the model to focus on relevant information.
